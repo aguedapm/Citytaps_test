@@ -10,6 +10,15 @@ If you haven't used either of these frameworks before, there are some useful lin
 ## The code
 In the project, we have set up some skeleton code for you. 
 This skeleton code is to help you get started with the project and to give a simple demonstration of how vue and node work, and how you can communicate between the client and server.
+### Running the intern project
+Firstly, the npm packages need to be installed for both the client and server. To do this, cd into the directories from your command line and run `npm install`.
+
+After the packages have been installed, you can now run both the client and the server:
+* To start the server, open a command line, cd to the server directory and run  `npm run start`
+* To start the client, open a separate command line window, cd to the client and run `npm run start`
+
+Both the server and the client are running in hot-reload mode, so changes will be put in place as you make them, instead of having to restart the service for each change.
+
 ## Requirements
 * Your answers must be pushed on this repo on a *demo* branch.
 * The layout and rendering are opened to your creativity, remember this is a demonstration of your skills.

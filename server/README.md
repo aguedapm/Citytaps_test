@@ -1,4 +1,4 @@
-# client
+# Server
 
 ## Project setup
 ```
@@ -11,4 +11,4 @@ npm run start
 ```
 
 ## Documentation
-Any documentation the we require for your client should be put here
+Any documentation the we require for your server should be put here
