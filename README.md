@@ -1,15 +1,15 @@
 # CityTaps Intern Test
 
-Hello and welcome to the city taps intern test! 
+Hello and welcome to the CityTaps intern test! 
 This is a little and hopefully fun exercise so we can get an idea of your skill level. 
 The test is a fullstack exercise and aims to test your fundamental web development knowledge, problem solving ability and your development workflow.
 
-For this test, nodejs with express is used for the backend and vuejs for the frontend. 
+For this test, NodeJS with Express is used for the backend and VueJS for the frontend. 
 Please don't panic if you haven't used any of these before, we are not evaluating how well you know these frameworks, but rather how you set up the project, evaluate and solve problems and how you write your code.
-If you haven't used either of these frameworks before, there are some useful links attached at the bottom so that you can gain a bit more understanding.
+If you haven't used either of these frameworks before, there are some useful links attached at the bottom so that you can gain a bit more understanding. In particular, if you have never worked with single page applications before, you should read the attached article and do some research on how to handle routing with Vue Router (Link to Vue Router docs attached below as well).
 ## The code
 In the project, we have set up some skeleton code for you. 
-This skeleton code is to help you get started with the project and to give a simple demonstration of how vue and node work, and how you can communicate between the client and server.
+This skeleton code is to help you get started with the project and to give a simple demonstration of how Vue and Node work, and how you can communicate between the client and server.
 ### Running the intern project
 Firstly, the npm packages need to be installed for both the client and server. To do this, cd into the directories from your command line and run `npm install`.
 
@@ -90,4 +90,17 @@ Send us an email once you're done so we can review your work.
 
 
 # Thank you for your time and interest in CityTaps !
+
+## Links on Node and Vue
+
+### VueJS
+* Single Page Application: https://flaviocopes.com/single-page-application/
+* Short video series: https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07
+* VueJS Docs: https://vuejs.org/
+* Vue Router: https://router.vuejs.org/
+
+## NodeJS
+* Short video series on Node and Express: https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR
+* Node docs: https://nodejs.org/en/docs/
+* Options for authentication: https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458
 
