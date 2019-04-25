@@ -30,7 +30,7 @@
           this.serverInformation = response.data.message
           this.serverActive = true
         })
-        .catch((error) => {
+        .catch(() => {
           this.serverInformation = 'The CityTaps project server does not appear to be running. Please start the server and refresh the page!'
           this.serverActive = false
         })
