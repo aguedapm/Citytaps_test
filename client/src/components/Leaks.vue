@@ -42,7 +42,6 @@
     padding: 10px;
   }
   .leaksResult {
-    margin: auto;
-    padding: 0px 40px;
+    margin: 0px 70px;
   }
 </style>
