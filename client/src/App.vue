@@ -3,7 +3,6 @@
     <router-link to="/" class="nav-links">Home</router-link>
     <router-link to="/inspiration" class="nav-links">Inspiration</router-link>
     <router-link to="/leaks" class="nav-links">Leaks</router-link> 
-    <router-link to="/login" class="nav-links">Login</router-link>  
     <router-view></router-view>
   </div>
 </template>
